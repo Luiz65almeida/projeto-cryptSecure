@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-Criptografiasha512Application<criptografiasha512>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.almeida.criptografiasha512.Criptografiasha512Application",
+      "projectName": "criptografiasha512",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
